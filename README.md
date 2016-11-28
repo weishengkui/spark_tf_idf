@@ -1,4 +1,4 @@
-# MatrixFactorization
+# spark_tf_idf
 This is a simple implementation of TF_IDF by spark.
 
 Training dataset is 10,000 documents of Chinese news.
